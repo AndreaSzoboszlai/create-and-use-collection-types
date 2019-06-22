@@ -1,0 +1,2 @@
+C:\Users\szobo\Documents\.NET Projects\SI Weeks\2nd SI Week\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csprojAssemblyReference.cache
+C:\Users\szobo\Documents\.NET Projects\SI Weeks\2nd SI Week\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csproj.CoreCompileInputs.cache
